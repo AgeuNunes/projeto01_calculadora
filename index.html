@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>Calculadora</title>
+
+		<meta name="author" content="Ageu Nunes">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" href="css/style.css" type="text/css">
+		
+		<script src="script/script.js" type="text/javascript"></script>
+
+	</head>
+
+	<body>
+
+		<div id="calculadora">
+			
+			<div id="marca">CASSIO</div>
+
+			<div id="display">0</div>
+			
+			<div id="botoes">
+				<button onclick="limpar()" class="ac">AC</button>
+				<button onclick="obterPorcento()" class="operacoes">%</button>
+				<button onclick="iniciarCalculo('*')" class="operacoes">x</button>
+				<button onclick="iniciarCalculo('/')" class="operacoes">/</button>
+				<button onclick="incluirDigito('7')">7</button>
+				<button onclick="incluirDigito('8')">8</button>
+				<button onclick="incluirDigito('9')">9</button>
+				<button onclick="finalizarCalculo()" class="operacoes">=</button>
+				<button onclick="incluirDigito('4')">4</button>
+				<button onclick="incluirDigito('5')">5</button>
+				<button onclick="incluirDigito('6')">6</button>
+				<button onclick="iniciarCalculo('-')" class="operacoes">-</button>
+				<button onclick="incluirDigito('1')">1</button>
+				<button onclick="incluirDigito('2')">2</button>
+				<button onclick="incluirDigito('3')">3</button>
+				<button onclick="iniciarCalculo('+')" class="mais">+</button>
+				<button onclick="incluirDigito('0')" class="zero">0</button>
+				<button onclick="incluirPonto()">,</button>
+			</div>
+			
+		</div>
+
+	</body>
+</html>
