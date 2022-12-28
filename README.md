@@ -8,6 +8,6 @@ Projeto desenvolvido ao final do curso de Lógica de Programação ministrado pe
 Neste caso, o desenvolvimento foi realizado de acordo com as boas práticas da programação separando o HTML, CSS e JavaScript em arquivos distintos. Evoluindo do conceito básico ministrado para o conceito mais profissional.
 </h3>
 
-![layout_](https://user-images.githubusercontent.com/116468965/209884163-e20d6450-e52a-4e25-ae44-22e255cc1cc2.png)
+![layout_](https://user-images.githubusercontent.com/116468965/209884207-7441b816-2b0d-4b84-bf05-1335014f421e.png)
 
 <h4>By Ageu Nunes.</h4>
