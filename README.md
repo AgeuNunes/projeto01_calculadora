@@ -7,4 +7,4 @@ Neste caso, o desenvolvimento foi realizado de acordo com as boas práticas da p
 
 &nbsp;
 
-<img style="width: 30px" src="https://github.com/AgeuNunes/projeto01_calculadora/blob/main/layout/layout.png">
+<img style="width: 50px" src="https://github.com/AgeuNunes/projeto01_calculadora/blob/main/layout/layout.png">
