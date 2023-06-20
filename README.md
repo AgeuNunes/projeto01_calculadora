@@ -5,4 +5,6 @@ Projeto desenvolvido ao final do curso de Lógica de Programação ministrado pe
 
 Neste caso, o desenvolvimento foi realizado de acordo com as boas práticas da programação separando o HTML, CSS e JavaScript em arquivos distintos. Evoluindo do conceito básico ministrado para o conceito mais profissional.
 
+&nbsp;
+
 <img style="width: 300px" src="https://github.com/AgeuNunes/projeto01_calculadora/blob/main/layout/layout.png">
