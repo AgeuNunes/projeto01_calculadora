@@ -4,4 +4,4 @@ Este foi meu primeiro projeto e foi desenvolvido ao final do curso de Lógica de
 
 Neste caso, o desenvolvimento foi realizado de acordo com as boas práticas da programação separando o HTML, CSS e JavaScript em arquivos distintos. Evoluindo do conceito básico ministrado para o conceito mais profissional.
 
-Acesse-a clicando <a href="https://ageununes.github.io/projeto01_calculadora/" rel="noreferrer noopener nofollow" target="blank">aqui</a>
+Acesse-a clicando <a href="https://ageununes.github.io/projeto01_calculadora/" >aqui</a>
